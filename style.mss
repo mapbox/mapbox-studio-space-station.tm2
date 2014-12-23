@@ -4,7 +4,7 @@ http://lostandtaken.com/
 */
 
 // Languages: name (local), name_en, name_fr, name_es, name_de
-@name: '[name_en]';
+@name: '[name]';
 @water-text:lighten(#000, 60);
 
 Map {
