@@ -1,0 +1,30 @@
+_prefs: 
+  mapid: null
+  saveCenter: true
+_properties: {}
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - 2.3496
+  - 48.8545
+  - 15
+description: A futuristic sci-fi map in chrome and neon.
+format: "png8:m=h:c=128"
+interactivity_layer: ''
+layers: null
+maxzoom: 19
+minzoom: 0
+name: Space Station
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+  - roads.mss
+  - adminlines.mss
+  - buildings.mss
+  - poi.mss
+  - label.mss
+template: ''
